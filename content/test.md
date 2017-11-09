@@ -1,13 +1,5 @@
 ---
 views:
-    byline:
-        region: after-main
-        template: default/content
-        sort: 1
-        data:
-            meta:
-                type: content
-                route: block/byline
     sidebar1:
         region: sidebar-left
         template: default/content
@@ -29,6 +21,11 @@ Testsite
 ==============================================
 
 Detta är en testsida för anax-flat.
-Fin bild på mos.
+Fin bild på mig.
 
-![Jag själv](https://dbwebb.se/image/mikael-roos/me-happy.jpg?w=200)
+Image test:
+
+![Jag själv](img/me.png)
+
+Link test:
+[dbwebb.se](https://dbwebb.se)

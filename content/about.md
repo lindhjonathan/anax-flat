@@ -1,12 +1,12 @@
 About this site
 ==============================================
 
-About.
+Den här sidan är gjord med hjälp av Anax-Flat som en del av kursen [design](http://dbwebb.se/design) som jag läser vid BTH. Markdown, ramverk och design är huvudsakliga områden som kommer dyka upp igenom under kursens gång.
 
-The primary focus of this site is to:
+![Random code snippet](img/web-design.jpeg)
 
-* To be used in teaching the [dbwebb course design](http://dbwebb.se/design).
+Källkoden för ramverket anax-flat kan hittas på GitHub: [canax/anax-flat](git@github.com:canax/anax-flat.git).
 
-The source for this site is available on GitHub in [canax/anax-flat](git@github.com:canax/anax-flat.git).
+Utvecklat av [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se)
 
-This site is produced by [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se).
+My [GitHub repository](https://github.com/lindhjonathan/anax-flat)

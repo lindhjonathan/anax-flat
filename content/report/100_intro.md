@@ -1,6 +1,5 @@
 Introduction
 ===============================
 
-Intro redovisning.
-
-Here are my reports for the different kmoms.
+Detta är sidan för alla redovisningstexter som är kopplade till kursen *design*.
+Hoppa fram och tillbaks mellan de olika kursmomenten i menyn till vänster eller använd länkarna ovan- och undertill.
