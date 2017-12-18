@@ -10,3 +10,4 @@ Källkoden för ramverket anax-flat kan hittas på GitHub: [canax/anax-flat](git
 Utvecklat av [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se)
 
 My [GitHub repository](https://github.com/lindhjonathan/anax-flat)
+And my [Anax-flat theme](https://github.com/lindhjonathan/anax-flat-theme)
